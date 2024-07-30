@@ -1,6 +1,6 @@
 ## Hi there 🎀🎇🤍
 Meu nome é Amanda Soares
-Estou estudando no Aluro
+Estou estudando no Alura
 -Vou estar usando esse ambiente para compartilhar os meus projetos 
 - 🌱 I’m currently learning....
 
